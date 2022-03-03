@@ -14,7 +14,7 @@ mathjax: true
 Linear Regression basically means trying to find the best fit line for the numserical data.
 
 ### Ordinary Least Squares (OLS)
-OLS is one of the variety for linear regression. The model fits a model of form $y = ax + b$ and trying to minimize the Mean Square Error. OLS considers data as a matrix and uses linear algebra to solve for optimal values. Scikit Learn linear regressor implements with this configuration.
+OLS is one of the variety for linear regression. The model fits a model of form $$y = ax + b$$ and trying to minimize the Mean Square Error. OLS considers data as a matrix and uses linear algebra to solve for optimal values. Scikit Learn linear regressor implements with this configuration.
 
 ### Linear Regression with Gradient Descent
 This is another variety. The optimization process is iterative following the steepest direction provided from the derivative of loss in funtion of parameters. This iterative process can be 3 types:
