@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: vt
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "vt"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Data science enthusiast"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -106,6 +106,29 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _ml
+  - scope:
+      path: ""
+      type: ml
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+#       related: true
+# _misc
+  - scope:
+      path: ""
+      type: misc
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+#       related: true
+
 
 category_archive:
   type: liquid
@@ -113,3 +136,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+collections:
+  ml:
+    output: true
+    permalink: /:collection/:path/
+  misc:
+    output: true
+    permalink: /:collection/:path/
