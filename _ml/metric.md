@@ -18,25 +18,6 @@ For classification problem in the machine learning community, there are 4 main m
 |Actual | Negative   | True Negative   | False Positive  |
 |       | Positive   | False Negative  | True Positive   |
 
-$$
-\begin{table}[h!]
-    \centering
-        \def\arraystretch{2}
-        \begin{tabular}{c|c|c|c|} 
-         \multicolumn{2}{c}{} & \multicolumn{2}{c}{Predicted}  \\
-         \cline{2-4}
-         & & Negative & Positive \\
-         \cline{2-4}
-         \multirow{2}{*}{Actual} & Negative & True Negative & False Positive  \\
-         \cline{2-4}
-         & Positive & False Negative  & True Positive \\
-         \cline{2-4}
-        \end{tabular}
-    \caption{Confusion matrix}
-    \label{table:2}
-\end{table}
-$$
-
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/metric.png" alt="" class="full"> -->
 
 ### Accuracy
