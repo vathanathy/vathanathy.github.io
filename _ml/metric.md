@@ -2,11 +2,11 @@
 title: "Metrics"
 excerpt_separator: "<!--more-->"
 last_modified_at: 2022-03-02
-categories:
+<!-- categories:
   - ml
 tags:
   - classifcation
-  - machine learning
+  - machine learning -->
 toc: true
 mathjax: true
 ---
