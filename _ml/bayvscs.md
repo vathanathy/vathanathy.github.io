@@ -2,12 +2,12 @@
 title: "Bayesian vs Classical Statistic"
 excerpt_separator: "<!--more-->"
 last_modified_at: 2022-02-09
-<!-- categories:
+categories:
   - Blog
   - Mlog
 tags:
   - bayes
-  - statistic -->
+  - statistic
 toc: true
 ---
 
