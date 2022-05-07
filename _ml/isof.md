@@ -2,11 +2,6 @@
 title: "Isolation Forest"
 excerpt_separator: "<!--more-->"
 last_modified_at: 2022-02-09
-<!-- categories:
-  - ml
-tags:
-  - unsupervised
-  - machine learning -->
 toc: true
 ---
 ## Understanding Isolation Forest
