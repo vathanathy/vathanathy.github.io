@@ -87,6 +87,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-1234567-8"
+    anonymize_ip: false # default
+    
 defaults:
   # _posts
   - scope:
