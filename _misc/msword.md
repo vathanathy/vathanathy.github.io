@@ -2,10 +2,6 @@
 title: "ការចូលទីផ្សាររបស់ Microsoft Word"
 excerpt_separator: "<!--more-->"
 last_modified_at: 2022-02-11
-<!-- categories:
-  - khmer
-tags:
-  - microsoft word -->
 toc: true
 ---
 Disclaimer: អត្ថបទនេះផ្អែកទៅលើការយល់របស់ខ្ញុំពីមេរៀនដែលគ្រូខ្ញុំបង្រៀន។ ហេតុនេះវាមិនប្រាកដថា វាជារឿងដែលកើតឡើងជាក់ស្ដែងឡើយ។
