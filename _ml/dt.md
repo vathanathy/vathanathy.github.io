@@ -2,10 +2,10 @@
 title: "Decision Tree"
 excerpt_separator: "<!--more-->"
 last_modified_at: 2022-02-16
-categories:
+<!-- categories:
   - Mlog
 tags:
-  - classifcation
+  - classifcation -->
 toc: true
 ---
 ## Understanding Decision Tree
