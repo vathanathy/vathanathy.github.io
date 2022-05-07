@@ -2,12 +2,6 @@
 title: "LightGBM"
 excerpt_separator: "<!--more-->"
 last_modified_at: 2022-02-09
-<!-- categories:
-  - ml
-tags:
-  - Post Formats
-  - readability
-  - standard -->
 toc: true
 ---
 ## Understanding LightGBM
