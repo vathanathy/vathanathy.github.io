@@ -2,11 +2,11 @@
 title: "Linear Regression"
 excerpt_separator: "<!--more-->"
 last_modified_at: 2022-02-10
-categories:
+<!-- categories:
   - ml
 tags:
   - regression
-  - machine learning
+  - machine learning -->
 toc: true
 mathjax: true
 ---
