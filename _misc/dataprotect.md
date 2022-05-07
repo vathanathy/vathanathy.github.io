@@ -2,10 +2,10 @@
 title: "ស្វែងយល់ពីការប្រើប្រាស់ទិន្នន័យ"
 excerpt_separator: "<!--more-->"
 last_modified_at: 2022-02-11
-categories:
+<!-- categories:
   - khmer
 tags:
-  - data protection
+  - data protection -->
 toc: true
 ---
 Disclaimer: អត្ថបទនេះផ្អែកទៅលើពត៌មាននៅក្នុងអ៊ឹរ៉ុប និងកម្រងច្បាប់ Global Data Protection Regulation (GDPR) ដែលជាច្បាប់ការពារ និងរឹតបន្តឹងទៅលើការប្រើប្រាស់ទិន្នន័យឯកជន (អ្នកប្រើប្រាស់អ៊ីនធើណេតជាទូទៅ) ពីសំណាក់គេហទំព័រនានា នៃសហភាពអ៊ឺរ៉ុប។
