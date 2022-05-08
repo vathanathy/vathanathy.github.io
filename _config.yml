@@ -86,12 +86,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "G-0EYEB4PHW6"
-    anonymize_ip: false # default
     
 defaults:
   # _posts
