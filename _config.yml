@@ -88,9 +88,9 @@ footer:
       url: "https://instagram.com/"
 
 analytics:
-  provider: "google-gtag"
+  provider: "google"
   google:
-    tracking_id: "UA-1234567-8"
+    tracking_id: "G-0EYEB4PHW6"
     anonymize_ip: false # default
     
 defaults:
