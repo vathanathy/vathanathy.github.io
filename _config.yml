@@ -90,7 +90,7 @@ footer:
 comments:
   provider: "facebook"
   facebook:
-    appid: 3838771129580714 # optional
+    appid: # optional
     num_posts: 5 # 5 (default)
     colorscheme: "dark" # "light" (default), "dark"
   
