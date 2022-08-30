@@ -88,11 +88,9 @@ footer:
       url: "https://instagram.com/"
 
 comments:
-  provider: "facebook"
-  facebook:
-    appid: # optional
-    num_posts: 5 # 5 (default)
-    colorscheme: "dark" # "light" (default), "dark"
+  provider: "disqus"
+  disqus:
+    shortname: "vtgithub"
   
 defaults:
   # _posts
