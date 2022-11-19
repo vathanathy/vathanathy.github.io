@@ -5,6 +5,6 @@ main:
     url: /misc/
   - title: "about"
     url: /about/
-  - title: "suggestion"
-    url: /suggestion/
+#   - title: "suggestion"
+#     url: /suggestion/
   
