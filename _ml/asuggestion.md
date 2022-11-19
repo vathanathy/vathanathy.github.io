@@ -1,5 +1,5 @@
 ---
-title: "A Suggestions for Machine Learning"
+title: "Suggestions for Machine Learning"
 excerpt_separator: "<!--more-->"
 last_modified_at: 2022-11-19
 toc: true
