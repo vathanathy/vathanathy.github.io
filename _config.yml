@@ -133,17 +133,6 @@ defaults:
       comments: true
       share: true
 #       related: true
-# _misc
-  - scope:
-      path: ""
-      type: suggestion
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-#       related: true
 
 
 category_archive:
