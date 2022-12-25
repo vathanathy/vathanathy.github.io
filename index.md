@@ -12,7 +12,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home.jpg
 excerpt: >
-  A personal blog containing my notes from different fields I've learned.<br />
+  A personal blog about Machine Learning and other things.<br />
 feature_row:
   - image_path: /assets/images/ml.jpg
     alt: "customizable"
